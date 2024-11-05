@@ -1,0 +1,134 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.resume
+{
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+
+}
+.per
+{
+    align-items: center;
+   width: 30%;
+   
+}
+.pro
+{
+   font-size: 14px;
+    width: 70%;
+   
+    
+}
+.name
+{   
+    font-size: small;
+    color: white;
+    text-align: center;
+    box-sizing: border-box;
+    font-size: 30px;
+    background-color: rgb(117, 117, 209);
+}
+img{
+   margin-top: 5%;
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+}
+.name a{
+    gap: 2px;
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+}
+.contact
+{
+    
+    box-sizing: border-box;
+    color: white;
+    background-color: rgb(7, 6, 6);
+}
+.contact h3{
+    padding: 20px;
+    margin-left: 25px;
+    margin-right: 25px;
+    
+}
+.con p{
+    padding: 5px;
+    box-sizing: border-box;
+    margin-left: 40px;
+    margin-right: 40px;
+    
+  }
+  .skills p
+  {
+    padding: 20px;
+  }
+  .cartificates
+  {
+    padding-top: 100px;
+  }
+  .progress-bar {
+   text-align: center;
+              
+    max-width: 500px;
+    height: 10px;
+    background-color: #e0e0e0;
+    border-radius: 10px;
+    overflow: hidden;
+  }
+  
+  .progress-fill {
+    height: 100%;
+    background-color: #3f3fc3;
+    transition: width 0.5s;
+  }
+  .cartificates p
+  {
+    padding: 5px;
+    box-sizing: border-box;
+    margin-left: 40px;
+    margin-right: 40px;
+  }
+  .pro
+  {
+    padding-left: 40px;
+    
+    box-sizing: border-box;
+  }
+  .obj
+  {
+    padding: 10px;
+  }
+  .workexp
+  {
+    padding: 10px;
+  }
+  .workexp p
+  {
+    padding: 5px;
+  }
+  .project
+  {
+    padding: 10px;
+  }
+  .project p
+  {
+    padding: 5px;
+  }
+  .education
+  {
+    padding: 10px;
+  }
+  .education p
+  {
+    padding: 5px;
+  }
+
+
+
